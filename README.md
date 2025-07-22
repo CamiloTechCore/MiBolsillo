@@ -136,6 +136,7 @@ Este proyecto se desarrolla siguiendo una metodología de Andamiaje Cognitivo, d
 ---
 
 ### 📈 Distribución de Esfuerzo por Módulo
+```mermaid
 pie
     title Distribución de Esfuerzo del Proyecto
     "Módulo 1: Fundamentos" : 8
@@ -144,6 +145,7 @@ pie
     "Módulo 4: Dashboard" : 17
     "Módulo 5: Avanzado" : 25
     "Módulo 6: Admin" : 16
+```
   ---
 
 ## 🙌 Autor
